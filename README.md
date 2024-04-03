@@ -3,7 +3,7 @@ A small Javascript project to help pentest websites, this overrides the JSON api
 
 # What does this do?
 In theory without procautions by a website this allows vunerabilies that we're not typically thought of prior to this release, this makes it so anything in the JSON library can be modified to the point of a security breach on some websites.
-![image](https://github.com/ilytobias/JSON-Sniff/assets/165577429/289da1c3-9cf6-4387-9237-13f657663a22)
+![image](https://github.com/orphanlol/JSON-Sniff/assets/83834491/a2445e34-acc3-468f-8e0d-c46e844232bc)
 This screenshot shows [webcrack](https://webcrack.netlify.app/)'s use of the JSON library.
 
 # DISCLAIMER
